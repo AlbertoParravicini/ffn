@@ -54,7 +54,6 @@ def get(
         * kwargs: passed to provider
 
     """
-
     if provider is None:
         provider = DEFAULT_PROVIDER
 
